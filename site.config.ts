@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Fluttery World.dev',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: 'Modern Times dev',
+  domain: 'modern-times.dev',
   author: 'Shohei Ogawa',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'technology blog by heyhey1028',
 
   // social usernames (optional)
   twitter: 'ogasho1028',
